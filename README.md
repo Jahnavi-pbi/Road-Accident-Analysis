@@ -31,4 +31,6 @@ This project presents a comprehensive dashboard for analyzing road accident data
   - Line Area Graphs
   - Donut Charts
   - Map (Geo visuals)
+ ---
+ https://github.com/Jahnavi-pbi/Road-Accident-Analysis/blob/1d914954fdb78e9a2dbe99d2a6094b1a1832a7e4/rd%20dashboard%20.png
   
